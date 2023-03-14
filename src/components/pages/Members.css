@@ -1,0 +1,165 @@
+.members__page {
+    background: black;
+    width: 100%;
+}
+
+.front__pic {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10rem;
+    padding-top: 5rem;
+}
+
+.elcontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 6rem;
+}
+
+.vectorfull {
+    margin-left: 5.5rem;
+    width: 86vw;
+}
+
+.exclusive_drop {
+    
+    width: 270px;
+    height: 110px;
+
+
+}
+
+.monkey1 {
+    width: 220px;
+    height: 185px;
+}
+
+.dscontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 8rem;
+}
+
+.monkey2 {
+    width: 220px;
+    height: 230px;
+}
+
+.discounted_services {
+    
+    width: 270px;
+    height: 110px;
+
+}
+
+.end__pic {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10rem;
+    padding-top: 8rem;
+}
+
+.piccontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 8rem;
+}
+
+@media screen and (max-width: 600px) {
+    .members__page {
+        background: black;
+        width: 100%;
+    }
+
+    .member_louge {
+        width: 200px;
+        height: 80px;
+    }
+
+    .front__pic {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 4rem;
+        padding-top: 4rem;
+    }
+
+    .elcontainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 6rem;
+    }
+
+    .vectorfull {
+        margin-left: 4.1rem;
+        width: 89vw;
+    }
+
+    .exclusive_drop {
+        width: 110px;
+        height: 60px;
+
+    }
+
+    .monkey1 {
+        width: 280px;
+        height: 100px;
+    }
+
+    .dscontainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 8rem;
+    }
+
+    .monkey2 {
+        width: 120px;
+        height: 110px;
+    }
+
+    .dots {
+        width: 60.92px;
+        height: 100.42px;
+    }
+
+    .discounted_services {
+        width: 110px;
+        height: 60px;
+    }
+
+    .end__pic {
+
+        display: flex;
+        justify-content: center;
+        margin-bottom: 0rem;
+        padding-top: 5rem;
+
+    }
+
+    .live_discount {
+        width: 200px;
+        height: 50px;
+    }
+
+    .cap_coution {
+        width: 100px;
+        height: 100px;
+    }
+
+    .goldchain, .silverchain, .darkbag, .lightbag {
+        width: 100px;
+        height: 100px;
+    }
+
+    .piccontainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        margin-top: 8rem;
+    }
+
+}

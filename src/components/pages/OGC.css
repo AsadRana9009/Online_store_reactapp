@@ -1,0 +1,264 @@
+.ogc__page {
+    background: black;
+    width: 100%;
+    padding-top: 4rem;
+}
+
+.p1 {
+    color: white;
+    margin: 1rem 2rem;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+.p2 {
+    color: white;
+    margin: 2rem 12rem;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.top__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+.ogc {
+    width: 540px;
+    height: 170px;
+}
+
+.head {
+    color: white;
+}
+
+.thebrand {
+    width: 340px;
+    height: 55px;
+    margin-top: 4rem;
+}
+
+.capbox {
+    display: flex;
+    flex-direction: column;
+}
+
+.monkeycap {
+    height: 260px;
+    width: 225px;
+    padding-bottom: 1rem;
+}
+
+.goldbar {
+    height: 90px;
+    width: 240px;
+}
+
+.head {
+    color: white;
+    margin-top: 2rem;
+    padding-left: 4rem;
+    margin-bottom: 3rem;
+}
+
+.headware__content {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+    padding: 0 3rem;
+}
+
+.monkeycap1 {
+    height: 325px;
+    width: 330px;
+}
+
+.monkeybanana {
+    height: 260px;
+    width: 225px;
+    padding-bottom: 1rem;
+}
+
+.monkeybanana1 {
+    height: 325px;
+    width: 330px;
+}
+
+.darkbag1,
+.lightbag1 {
+    height: 260px;
+    width: 225px;
+    padding-bottom: 1rem;
+}
+
+.monkeybag {
+    height: 325px;
+    width: 330px;
+}
+
+.brand__content {
+    display: flex;
+    flex: 1;
+    /*padding-bottom: 12rem;*/
+    padding: 40px;
+    width: 95%;
+    justify-content: space-between;
+    margin: 10rem auto 0 auto;
+}
+
+.p3 {
+    color: white;
+    margin-right: 40px;
+    font-weight: 400;
+    margin-left: 80px;
+    font-size: 1.4rem;
+    padding-top: 1rem;
+}
+
+.p31 {
+    color: white;
+    margin-right: 40px;
+    font-weight: 400;
+    margin-left: 80px;
+    font-size: 1.4rem;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .ogc__page {
+        background: black;
+        width: 100%;
+        padding-top: 2rem;
+    }
+
+    .p1 {
+        color: white;
+        margin: 1rem 1rem;
+        font-weight: 400;
+        text-align: center;
+    }
+
+    .p2 {
+        color: white;
+        margin: 1rem 1rem;
+        text-align: center;
+        font-weight: 300;
+    }
+
+    .top__content {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 0.7rem;
+    }
+
+    .ogc {
+        width: 330px;
+        height: 100px;
+    }
+
+    .head {
+        color: white;
+    }
+
+    .capbox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .monkeycap {
+        height: 110px;
+        width: 90px;
+        padding-bottom: 1rem;
+    }
+
+    .goldbar {
+        height: 45px;
+        width: 102px;
+    }
+
+    .head {
+        color: white;
+        margin-top: 1rem;
+        padding-left: 1rem;
+        margin-bottom: 1rem;
+        font-size: 0.3;
+    }
+
+    .headware__content {
+        display: flex;
+        flex: 1;
+        justify-content: space-evenly;
+    }
+
+    .thebrand {
+        width: 250px;
+        height: 45px;
+    }
+
+    .front__pic {
+        display: flex;
+        justify-content: center;
+        margin-bottom: -7rem;
+        padding-top: 5rem;
+    }
+
+    .monkeycap1 {
+        height: 140px;
+        width: 135px;
+    }
+
+    .monkeybanana {
+        height: 110px;
+        width: 90px;
+        padding-bottom: 1rem;
+    }
+
+    .monkeybanana1 {
+        height: 140px;
+        width: 135px;
+    }
+
+    .darkbag1,
+    .lightbag1 {
+        height: 110px;
+        width: 90px;
+        padding-bottom: 1rem;
+    }
+
+    .monkeybag {
+        height: 140px;
+        width: 135px;
+    }
+
+    .brand__content {
+        display: flex;
+        flex: 1 1;
+        /* padding-bottom: 12rem; */
+        padding: 30px;
+        width: 98%;
+        justify-content: space-between;
+        margin: 1rem auto 0 auto;
+    }
+
+    .p3 {
+        color: white;
+        margin-right: 0px;
+        font-weight: 200;
+        margin-left: 10px;
+    }
+
+    .pic1,
+    .pic2,
+    .pic3 {
+        width: 130px;
+        height: 94px;
+    }
+
+}

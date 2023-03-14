@@ -1,0 +1,260 @@
+.ca__page {
+    background: black;
+    width: 100%;
+    padding-top: 4rem;
+}
+
+.top__content-ca {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+.ca_h {
+    color: white;
+    padding: 3rem 14rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 5rem;
+}
+
+.p1-ca {
+    color: white;
+    margin: 1rem 2rem;
+    text-align: center;
+    font-weight: 400;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+.decentraland {
+    margin-bottom: 4rem;
+}
+
+.styleset {
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10rem;
+}
+
+.styletag {
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    padding: 1rem;
+    font-size: 2rem;
+}
+
+.tag1 {
+    color: white;
+    font-weight: 400;
+    padding: 1rem;
+    font-size: 2rem;
+    margin-top: 10rem;
+}
+
+.css1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.styletag1 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    padding-top: 2rem;
+}
+
+.p2-ca {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 10rem 25rem;
+}
+
+.css2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.airdrop2 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.frame3 {
+    width: 800px;
+}
+
+.css3 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 15rem;
+}
+
+.ca_h2 {
+    color: white;
+    padding: 0rem 14rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 5rem;
+    padding-top: 10rem;
+}
+
+.p3-ca {
+    color: white;
+    margin: 0rem 6rem;
+    text-align: center;
+    font-weight: 400;
+    padding: 1rem;
+    font-size: 1.8rem;
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+}
+
+
+@media screen and (max-width: 600px) {
+    .ca__page {
+        background: black;
+        padding-top: 4rem;
+    }
+    
+    .top__content-ca {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 1rem;
+    }
+    
+    .ca_h {
+        color: white;
+        text-align: center;
+        font-weight: bold;
+        padding: 1rem;
+        font-size: 2rem;
+    }
+    
+    .p1-ca {
+        color: white;
+        margin: 0rem 1rem;
+        text-align: center;
+        font-weight: 300;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+    
+    .decentraland {
+        margin-bottom: 1rem;
+        width: 400px;
+    }
+    
+    .styleset {
+        align-items: center;
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 4rem;
+    }
+
+    .frame1 {
+        width: 180px;
+    }
+    
+    .styletag {
+        color: white;
+        text-align: center;
+        font-weight: 300;
+        padding: 1rem;
+        font-size: 1rem;
+    }
+    
+    .tag1 {
+        color: white;
+        font-weight: 400;
+        padding: 1rem;
+        font-size: 1rem;
+        margin-top: 2rem;
+    }
+
+    .ca0 {
+        width: 100px;
+    }
+    
+    .css1 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    
+    .styletag1 {
+        color: white;
+        text-align: center;
+        font-weight: 300;
+        padding: 0.5rem;
+        font-size: 0.6rem;
+        padding-top: 1rem;
+    }
+    
+    .p2-ca {
+        color: white;
+        text-align: center;
+        font-weight: 300;
+        font-size: 1.5rem;
+        padding: 4rem 1rem;
+    }
+    
+    .css2 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    
+    .airdrop2 {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+    
+    .frame3 {
+        width: 330px;
+    }
+    
+    .css3 {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 5rem;
+    }
+    
+    .ca_h2 {
+        color: white;
+        text-align: center;
+        font-weight: bold;
+        padding: 2rem;
+        font-size: 2rem;
+    }
+    
+    .p3-ca {
+        color: white;
+        margin: 0rem 0rem;
+        text-align: center;
+        font-weight: 400;
+        padding: 1rem;
+        font-size: 1rem;
+        padding-top: 1rem;
+        padding-bottom: 4rem;
+    }
+}

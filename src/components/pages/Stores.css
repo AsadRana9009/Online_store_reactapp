@@ -1,0 +1,222 @@
+.store__page {
+    background: black;
+    position: absolute;
+    width: 100%;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.container1 img {
+    width: 260.92px;
+    height: 230.42px;
+}
+
+.vector1 {
+    margin-left: 9.7rem;
+    width: 76vw;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+.dots {
+    width: 260.92px;
+    height: 230.42px;
+}
+
+.vector2 {
+    margin-left: 9.9rem;
+    width: 76vw;
+}
+
+.cap {
+    width: 255px;
+    height: 200px;
+}
+
+.headware {
+    width: 260px;
+    height: 55px;
+    margin-top: 3rem;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+
+.chain {
+    width: 235.92px;
+    height: 200.42px;
+    padding-top: 0.5rem;
+}
+
+.jewel {
+    width: 270px;
+    height: 50px;
+    margin-top: 3rem;
+
+}
+
+.vector3 {
+    margin-left: 10rem;
+    width: 75vw;
+}
+
+.container4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+
+
+.ml {
+    width: 280px;
+    height: 110px;
+    margin-top: 2rem;
+}
+
+.monkey {
+    width: 210.92px;
+    height: 190.42px;
+}
+
+.vector4 {
+    margin-left: 10.3rem;
+    width: 74.9vw;
+}
+
+
+
+/* ------------- Media Queries ( Small Devices ) --------------- */
+
+@media screen and (max-width: 600px) {
+    .store__page {
+        background: black;
+        position: absolute;
+        width: 100%;
+    }
+
+    .container1 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-right: 1rem;
+        margin-top: 2rem;
+        padding-left: 2rem;
+    }
+
+    .container1 img {
+        width: 90.92px;
+        height: 90.42px;
+    }
+
+    .vector1 {
+        margin-left: 1rem;
+        width: 94vw;
+
+    }
+
+    .container2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-right: 1rem;
+        margin-top: 2rem;
+        padding-left: 2rem;
+    }
+
+    .vector2 {
+        margin-left: 1rem;
+        width: 94vw;
+
+    }
+
+    .dots {
+        width: 100.92px;
+        height: 76.42px;
+    }
+
+    .cap {
+        width: 100px;
+        height: 88px;
+    }
+
+    .headware {
+        width: 105px;
+        height: 35px;
+        margin-top: 2rem;
+    }
+
+    .container3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-right: 1rem;
+        margin-top: 2rem;
+    }
+
+    .dots {
+        width: 100.92px;
+        height: 76.42px;
+    }
+
+    .chain {
+        width: 110.92px;
+        height: 70.42px;
+    }
+
+    .jewel {
+        width: 124px;
+        height: 40px;
+        margin-top: 1rem;
+    }
+
+    .vector3 {
+        margin-left: 1rem;
+        width: 94vw;
+    }
+
+    .container4 {
+        display: flex;
+        flex-direction: row;
+        justify-content: right;
+        margin-right: 1rem;
+        margin-top: 2rem;
+    }
+
+    .dots {
+        width: 120.92px;
+        height: 90.42px;
+    }
+
+    .ml {
+        width: 100px;
+        height: 50px;
+        margin-top: 2rem;
+    }
+
+    .monkey {
+        width: 150px;
+        height: 90px;
+    }
+
+    .vector4 {
+        margin-left: 0rem;
+        width: 94vw;
+    }
+}

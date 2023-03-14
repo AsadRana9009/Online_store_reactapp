@@ -1,0 +1,279 @@
+.hob__page {
+    background: black;
+    width: 100%;
+    padding-top: 4rem;
+}
+
+.p1-hob {
+    color: white;
+    margin: 3rem 14rem;
+    text-align: center;
+    font-weight: 400;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.top__content-hob {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 1rem;
+}
+
+.hob {
+    width: 460px;
+    height: 180px;
+}
+
+.monkeydiv {
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 0 2rem;
+
+}
+
+.leftmonkey {
+    width: 250px;
+    height: 270px;
+}
+
+.middlemonkey {
+    width: 300px;
+    height: 350px;
+}
+
+.rightmonkey {
+    width: 250px;
+    height: 270px;
+}
+
+.textbox {
+    display: flex;
+    justify-content: center;
+    margin-top: 6rem;
+}
+
+.maintext {
+    width: 1170px;
+    height: 480px;
+}
+
+.pendentbox {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+.pendent {
+    width: 400px;
+    height: 320px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.bookingbutton {
+    width: 200px;
+    height: 70px;
+}
+
+.p2-hob {
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    padding: 5rem 20rem;
+}
+
+.p3-hob {
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    font-size: 2rem;
+    margin: 2rem 29rem;
+}
+
+.hob__content {
+    display: flex;
+    flex: 1;
+    justify-content: space-around;
+}
+
+.hob__1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.hob__2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.goldchain1 {
+    height: 260px;
+    width: 225px;
+    padding-bottom: 1rem;
+}
+
+.silverchain1 {
+    height: 260px;
+    width: 225px;
+    padding-bottom: 1rem;
+}
+
+.goldbar1 {
+    height: 85px;
+    width: 230px;
+}
+
+.twomonkeys {
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+    .hob__page {
+        background: black;
+        width: 100%;
+        padding-top: 4rem;
+    }
+
+    .p1-hob {
+        color: white;
+        margin: 0rem 0rem;
+        text-align: center;
+        font-weight: 200;
+        padding: 2rem;
+    }
+
+    .top__content-hob {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        font-size: 1rem;
+    }
+
+    .hob {
+        width: 180px;
+        height: 60px;
+    }
+
+    .monkeydiv {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .leftmonkey {
+        width: 120px;
+        height: 120px;
+    }
+
+    .middlemonkey {
+        width: 110px;
+        height: 150px;
+    }
+
+    .rightmonkey {
+        width: 120px;
+        height: 120px;
+    }
+
+    .textbox {
+        display: flex;
+        justify-content: center;
+        margin-top: 6rem;
+    }
+
+    .maintext {
+        width: 330px;
+        height: 160px;
+    }
+
+    .pendentbox {
+        display: flex;
+        justify-content: center;
+        margin-top: 4rem;
+    }
+
+    .pendent {
+        width: 150px;
+        height: 160px;
+
+    }
+
+    .button {
+        display: flex;
+        justify-content: center;
+        margin-top: 3rem;
+    }
+
+    .bookingbutton {
+        width: 130px;
+        height: 40px;
+    }
+
+    .p2-hob {
+        color: white;
+        text-align: center;
+        font-weight: 400;
+        padding: 2rem 0rem;
+    }
+
+    .p3-hob {
+        color: white;
+        text-align: center;
+        font-weight: 200;
+        font-size: 1rem;
+        margin: 1rem 0rem;
+    }
+
+    .hob__content {
+        display: flex;
+        flex: 1;
+        justify-content: space-around;
+    }
+
+    .hob__1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .hob__2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .goldchain1 {
+        height: 150px;
+        width: 130px;
+        padding-bottom: 1rem;
+    }
+
+    .silverchain1 {
+        height: 150px;
+        width: 130px;
+        padding-bottom: 1rem;
+    }
+
+    .goldbar1 {
+        height: 60px;
+        width: 140px;
+    }
+
+    .twomonkeys {
+        display: flex;
+        justify-content: center;
+    }
+
+    .twomonkey {
+        width: 270px;
+        height: 150px;
+    
+    }
+
+}
